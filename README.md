@@ -19,5 +19,4 @@ I was able to split the big list of cones into two lists, one containing cones o
 After testing the code, I finally got a valid answer.
 
 ### Libraries
-The libraries I used are OpenCV and NumPy. OpenCV was necessary in order to filter the image and find the cones on the image. 
-I also used NumPy to convert the lists into NumPy lists to find the line of best fit with OpenCV.
+The libraries I used are OpenCV and NumPy.

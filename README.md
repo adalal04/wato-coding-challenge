@@ -17,3 +17,7 @@ After that I spent some time trying to find the best HSV range so that only the 
 playing around with the variables until I found a good match because there was other items in the image getting detected.
 I was able to split the big list of cones into two lists, one containing cones on the left and the other containing cones on the right. 
 After testing the code, I finally got a valid answer.
+
+### Libraries
+The libraries I used are OpenCV and NumPy. OpenCV was necessary in order to filter the image and find the cones on the image. 
+I also used NumPy to convert the lists into NumPy lists to find the line of best fit with OpenCV.
